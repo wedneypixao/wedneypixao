@@ -1,4 +1,4 @@
-# Seja bem vindo! Eu sou Wedney Paixão 🖐️
+# Seja bem-vindo! Eu sou Wedney Paixão 🖐️
 
 #### Graduando Gestão em Tecnologia da Informação, estudando tecologias dedicas ao Full Stack, base em Front-end, Back-end e Banco de Dados Relacional.
 #
