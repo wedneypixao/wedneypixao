@@ -1,36 +1,25 @@
-## Seja bem vindo! Eu sou Wedney Paixão 👋
+# Seja bem vindo! Eu sou Wedney Paixão 🖐️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wedneypixao&label=Profile%20views&color=0e75b6&style=flat" alt="wedneypixao" /> </p>
-Graduando em Gestão em Tecnologia da Informação, estudante das tecnologias dedicadas ao Full Stack, mas com noções em Back-End, Front-End e Banco de dados Relacional.
+### Graduando Gestão em Tecnologia da Informação, estudando tecologias dedicas ao Full Stack, base em Front-end, Back-end e Banco de Dados Relacional.
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wedneypixao&show_icons=true&theme=tokyonight)
 
-##
+## Onde me encontrar:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wedneyalmeida.dev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/wedney-paixão-036a01111)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wedney.p)
 
-- 🔭 Buscando minha primeira oportunidade de trabalho
-- 🌱 Estudando Java e Angular
-- 😄 Pronouns: ele/dele
+<br>
 
+## Tecnologias que utilizo:
+<br><img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+   <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+   <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+   <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">   
 
-##
+<br>
 
-<div align="center">
-  <a href="https://github.com/wedneypixao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wedneypixao&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedneypixao&layout=compact&langs_count=7&theme="/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
- 
- ##
- 
-<div> 
-  <a href="https://instagram.com/wedney.p" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatowedneyalmeida.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/wedney-paixão-036a01111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Aprimorando:
+ <img aling="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img aling="center" alt="jquary" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
