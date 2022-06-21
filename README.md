@@ -1,12 +1,14 @@
-### Seja bem vindo! Eu sou Wedney Paixão 👋
+## Seja bem vindo! Eu sou Wedney Paixão 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wedneypixao&label=Profile%20views&color=0e75b6&style=flat" alt="wedneypixao" /> </p>
+Graduando em Gestão em Tecnologia da Informação, estudante das tecnologias dedicadas ao Full Stack, mas com noções em Back-End, Front-End e Banco de dados Relacional.
+
+##
 
 - 🔭 Buscando minha primeira oportunidade de trabalho
 - 🌱 Estudando Java e Angular
 - 😄 Pronouns: ele/dele
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wedneypixao&label=Profile%20views&color=0e75b6&style=flat" alt="wedneypixao" /> </p>
-Graduando em Gestão em Tecnologia da Informação, estudante das tecnologias dedicadas ao Full Stack, mas com noções em Back-End, Front-End e Banco de dados Relacional.
 
 ##
 
