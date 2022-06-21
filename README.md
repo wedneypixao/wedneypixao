@@ -1,6 +1,6 @@
 # Seja bem vindo! Eu sou Wedney Paixão 🖐️
 
-### Graduando Gestão em Tecnologia da Informação, estudando tecologias dedicas ao Full Stack, base em Front-end, Back-end e Banco de Dados Relacional.
+#### Graduando Gestão em Tecnologia da Informação, estudando tecologias dedicas ao Full Stack, base em Front-end, Back-end e Banco de Dados Relacional.
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wedneypixao&show_icons=true&theme=tokyonight)
 
